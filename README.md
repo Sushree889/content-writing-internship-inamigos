@@ -3,7 +3,7 @@
 Welcome to my official repository documenting my journey as a **Content Writing Intern** at **InAmigos Foundation**.  
 This space showcases all my tasks, learnings, contributions, and creative outputs during the internship.
 
----
+
 
 ## ✨ About the Internship
 
@@ -15,7 +15,7 @@ This space showcases all my tasks, learnings, contributions, and creative output
 
 This internship focused on using the power of words to raise awareness, build emotional impact, and drive meaningful social change—especially through the Foundation's *BachpanShala* initiative.
 
----
+
 
 ## 📌 Internship Goals
 
@@ -24,7 +24,7 @@ This internship focused on using the power of words to raise awareness, build em
 - Develop skills in SEO writing, creative writing, and digital outreach  
 - Support volunteer recruitment and fundraising efforts  
 
----
+
 
 ## 🗂️ Task List
 
@@ -36,14 +36,14 @@ This internship focused on using the power of words to raise awareness, build em
 | 4        | Fundraising & Social Media Caption     | ✅ Done   |
 | 5        | Final Project Submission               | ⏳ Ongoing|
 
----
+
 
 ## 📝 Sample Works
 
-- [Awareness Campaign: BachpanShala](https://docs.google.com/document/d/1wifI0csgLNzixEuTVyfU5Cd3wTseJgm1/edit?usp=drivesdk)  
-- [Text Post: Education & the Future](https://drive.google.com/file/d/1tvFrXoH7mJA90g0PETz1vuO5d-xkd0Z8/view?usp=drivesdk)
+- [Awareness Campaign: BachpanShala]https://www.linkedin.com/posts/jagruti-priyadarshini2005_bachpanshala-inamigosfoundation-hopeinaction-activity-7351443361922203649-PBsh?utm_source=share&utm_medium=member_android&rcm=ACoAAE5XncwBSfite1-REcpZc9lfzDdByubK5m8
+- [Text Post: Education & the Future]https://www.linkedin.com/posts/jagruti-priyadarshini2005_contentwritinginternship-bachpanshala-inamigosfoundation-activity-7349685748859584512-jOec?utm_source=share&utm_medium=member_android&rcm=ACoAAE5XncwBSfite1-REcpZc9lfzDdByubK5m8
 
----
+
 
 ## 🧠 Skills Applied
 
@@ -53,7 +53,6 @@ This internship focused on using the power of words to raise awareness, build em
 - Poster & caption writing  
 - Campaign planning  
 
----
 
 ## 🌟 Highlights
 
@@ -62,7 +61,6 @@ This internship focused on using the power of words to raise awareness, build em
 - Improved clarity, tone, and emotional appeal in writing  
 - Completed tasks alongside academics with consistency and passion
 
----
 
 ## 🙌 Let's Connect
 
@@ -72,6 +70,6 @@ If you liked my work or want to collaborate, feel free to connect:
 **🔗 LinkedIn:** [linkedin.com/in/sushree-jagruti](#)  
 **🐙 GitHub:** [github.com/yourusername](#)
 
----
+
 
 > "Writing can change the world when done with purpose and heart." 💛
